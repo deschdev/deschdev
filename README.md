@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @deschdev
-- 👀 I’m interested in coding, horror movies, anime, video games, and hiking
+- 👋  Hello there! I'm @deschdev, a passionate coder with a penchant for exploring the realms of horror movies, anime, video games, and the great outdoors through hiking adventures. My interests extend beyond the screen, delving into the fascinating worlds of technology and entertainment. Let's connect and dive into the endless possibilities of the digital and real worlds alike!
 
 
 <!---
