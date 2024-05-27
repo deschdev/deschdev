@@ -9,15 +9,11 @@
 
 - 🌱 I’m currently learning **Backend, WEB3, Blender / Spline**
 
-- 👨‍💻 All of my projects are available at [deschdev.com](deschdev.com)
-
-- 📝 I regularly write articles on [deschdev.com](deschdev.com)
+- 👨‍💻 All of my projects are available at <a href="deschdev.com" target="_blank">deschdev.com</a>
 
 - 💬 Ask me about **being WCAG compliant**
 
-- 📫 How to reach me **deschdev@gmail.com**
-
-- 📄 Know about my experiences [deschdev.com](deschdev.com)
+- 📄 Know about my experiences <a href="deschdev.com" target="_blank">deschdev.com</a>
 
 - ⚡ Fun fact **I can read multiple mangas and not lose track of what is happening.**
 
