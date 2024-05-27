@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Norman</h1>
 <h3 align="center">A passionate frontend developer from Kingston, New York</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deschdev&label=Profile%20views&color=0e75b6&style=flat" alt="deschdev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deschdev" alt="deschdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/deschdev" target="blank"><img src="https://img.shields.io/twitter/follow/deschdev?logo=twitter&style=for-the-badge" alt="deschdev" /></a> </p>
