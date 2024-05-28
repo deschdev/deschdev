@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **being <a href="https://www.ada.gov/" target="blank">WCAG / ADA</a> compliant**
 
-- 📄 Know about my experiences <a href="deschdev.com" target="_blank">deschdev.com</a>
-
 - ⚡ Fun fact **I can read multiple mangas and not lose track of what is happening.**
 
 <h3 align="left">Connect with me:</h3>
