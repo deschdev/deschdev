@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deschdev" alt="deschdev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/deschdev" target="blank"><img src="https://img.shields.io/twitter/follow/deschdev?logo=twitter&style=for-the-badge" alt="deschdev" /></a> </p>
-
 - 🌱 I’m currently learning **Backend, WEB3, Blender / Spline**
 
 - 👨‍💻 All of my projects are available at <a href="deschdev.com" target="_blank">deschdev.com</a>
