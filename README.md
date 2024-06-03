@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend, WEB3, Blender / Spline**
 
-- 👨‍💻 All of my projects are available at <a href="deschdev.com" target="_blank">deschdev.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://deschdev.com" target="_blank">deschdev.com</a>
 
 - 💬 Ask me about **being <a href="https://www.ada.gov/" target="blank">WCAG / ADA</a> compliant**
 
