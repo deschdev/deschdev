@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Norman</h1>
-<h3 align="center">A passionate frontend developer from Kingston, New York</h3>
+<h3 align="center">A passionate software engineer from Kingston, New York</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deschdev" alt="deschdev" /></a> </p>
 
-- 🌱 I’m currently learning **Backend, WEB3, Blender / Spline**
+- 🌱 I’m currently learning **WEB3 and Blender / Spline**
 
 - 👨‍💻 All of my projects are available at <a href="https://deschdev.com" target="_blank">deschdev.com</a>
 
