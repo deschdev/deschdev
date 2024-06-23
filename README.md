@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deschdev" alt="deschdev" /></a> </p>
 
-- 🌱 I’m currently learning **WEB3 and Blender / Spline**
+- 🌱 I’m currently learning **WEB3 and Spline**
 
 - 👨‍💻 All of my projects are available at <a href="https://deschdev.com" target="_blank">deschdev.com</a>
 
