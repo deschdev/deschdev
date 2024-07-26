@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Norman</h1>
+<h1 align="center">Hi 👋, I'm Norman</h1> 
 <h3 align="center">A passionate software engineer from Kingston, New York</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deschdev" alt="deschdev" /></a> </p>
